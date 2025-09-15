@@ -61,7 +61,7 @@ The project followed a structured workflow, moving from initial data exploration
 
 ## 🙏 Acknowledgments
 - The dataset for this project was sourced from **[Kaggle](https://www.kaggle.com/)**.  
-- The project structure and methodology were inspired by a public video tutorial by **Amlan Mohanty**.  
+- The project structure and methodology were inspired by a public video tutorial by **[Amlan Mohanty](https://www.youtube.com/@amlanmohanty1)**.  
 - All SQL queries for exploration, cleaning, and analysis were written independently for this project.
 
 ---
