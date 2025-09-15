@@ -66,7 +66,7 @@ The findings can help drive business decisions by understanding sales patterns, 
 ---
 
 ## Acknowledgments
-The dataset used for this analysis was provided by the YouTube channel **Zero Analyst** from one of their project videos.  
+The dataset used for this analysis was provided by the YouTube channel **[Zero Analyst](https://www.youtube.com/@zero_analyst)** from one of their project videos.  
 While the dataset originates from this source, all SQL queries for data cleaning, exploration, and analysis were written independently for this project.
 
 ---
